@@ -4,7 +4,6 @@ Survey of Anomaly Detection Methods on Fraud
 
 https://www.kaggle.com/mlg-ulb/creditcardfraud (modified)
 
-Summary:
 1) Handling of Imbalanced Dataset
     - Over/ Undersampling
     - SMOTE / ADAYSN
